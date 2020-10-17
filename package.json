@@ -4,7 +4,9 @@
   "description": "Работа со сборщиком Parcel",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Artiss90/08_js_gallery_collected_by_Parcel-/issues"
   },
-  "homepage": "https://github.com/Artiss90/08_js_gallery_collected_by_Parcel-#readme"
+  "homepage": "https://github.com/Artiss90/08_js_gallery_collected_by_Parcel-#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.27.0"
+  }
 }
