@@ -1,0 +1,20 @@
+{
+  "name": "08_js_gallery_collected_by_Parcel-",
+  "version": "1.0.0",
+  "description": "Работа со сборщиком Parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artiss90/08_js_gallery_collected_by_Parcel-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artiss90/08_js_gallery_collected_by_Parcel-/issues"
+  },
+  "homepage": "https://github.com/Artiss90/08_js_gallery_collected_by_Parcel-#readme"
+}
